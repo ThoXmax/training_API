@@ -11,7 +11,9 @@ main.js
     npm install axios
 ```
 你也可以用CDN方式：
+```html
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+```
 
 [參考]https://github.com/axios/axios
 
